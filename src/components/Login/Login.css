@@ -1,0 +1,29 @@
+.login-form{
+    width: 30%;
+    margin: 0 auto;
+    margin-top: 20%;
+    padding: 0;
+}
+
+.btn-login-form{
+    margin-top: 30px; 
+}
+
+.login-container{
+    background-image: url('/images/login-fondo.jpg');
+    height: 100vh;
+    width: 100vw;
+}
+
+label{
+    color: white;
+}
+
+.login-title{
+    color: white;
+    text-align: center;
+}
+
+.error-message{
+    color: red;
+}

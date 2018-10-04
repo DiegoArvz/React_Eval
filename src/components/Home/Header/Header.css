@@ -1,0 +1,12 @@
+.header-div{
+    background-color: white;
+    margin-bottom: 30px;
+    border-radius: 10px;
+}
+
+.cart-counter{
+    background-color: red;
+    color: white;
+    border-radius: 100%;
+    width: 30px;
+}
